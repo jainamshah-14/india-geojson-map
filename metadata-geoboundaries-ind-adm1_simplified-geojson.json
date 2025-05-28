@@ -1,0 +1,15 @@
+{
+    "created": "2022-01-06T14:05:42.984834",
+    "description": "Simplified GeoJSON ADM1 boundaries for India",
+    "format": "GeoJSON",
+    "download_url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/IND/ADM1/geoBoundaries-IND-ADM1_simplified.geojson",
+    "id": "ea26c035-0e30-425c-b2f8-204d7f0ec53a",
+    "last_modified": "2024-05-28T18:47:22.051728",
+    "metadata_modified": "2024-07-20T00:14:27.225856",
+    "microdata": false,
+    "dataset_id": "ce3efcd6-7a23-41c1-b463-5a46125b0bc5",
+    "resource_type": "api",
+    "name": "geoBoundaries-IND-ADM1_simplified.geojson",
+    "mimetype": null,
+    "size": "0.0B"
+}
